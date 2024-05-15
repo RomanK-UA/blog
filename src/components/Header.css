@@ -1,0 +1,10 @@
+.header-nav{
+    display: flex;
+    align-items: center;
+    padding: 1rem 0;
+
+    border-bottom: 1px solid slateblue;
+}
+.header-logo{
+    font-size: 2rem;
+}

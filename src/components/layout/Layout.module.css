@@ -1,0 +1,10 @@
+.grid{
+    height: 95%;
+    display: grid;
+    grid-template-columns: 1fr;
+
+    margin: 0 auto;
+    padding: .5rem;
+}
+
+
